@@ -1,0 +1,18 @@
+{
+  "name": "swag-training/hello-world",
+  "description": "Hello World plugin",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Swag\\TrainingHelloWorld\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "SwagTraining\\HelloWorld\\SwagTrainingHelloWorld",
+    "label": {
+      "de-DE": "Hello World plugin",
+      "en-GB": "Hello World plugin"
+    }
+  }
+}
