@@ -1,5 +1,5 @@
 {
-  "name": "swag-training/shopware6-hello-world",
+  "name": "swag-training/hello-world",
   "description": "Hello World plugin",
   "type": "shopware-platform-plugin",
   "license": "MIT",
